@@ -1,0 +1,26 @@
+{
+  "name": "question bank",
+  "description": "question bank",
+  "main": "app.js",
+  "keywords": [
+    "angular",
+    "question",
+    "bank"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "pradip"
+  ],
+  "dependencies": {
+    "angular": "1.5.0",
+    "bootstrap": "^3.3.7"
+  }
+}
